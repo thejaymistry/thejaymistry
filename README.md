@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning fullstack development (python and java)
 - 💞️ I’m looking to collaborate on fullstack projects
-- 📫 How to reach me email: thejaymistry@gmail.com
+- 📫 How to reach me? Email: thejaymistry@gmail.com
 
 <!---
 thejaymistry/thejaymistry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
